@@ -1,4 +1,4 @@
-package com.example.mgbeautystudio.service;
+package com.example.mgbeautystudio.service.user;
 
 import com.example.mgbeautystudio.model.User;
 import com.example.mgbeautystudio.repository.UserRepository;
