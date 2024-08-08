@@ -1,4 +1,4 @@
-package com.example.mgbeautystudio.service.user;
+package com.example.mgbeautystudio.service;
 
 public class ClientService {
 }

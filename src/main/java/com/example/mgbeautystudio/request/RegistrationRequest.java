@@ -1,2 +1,4 @@
-package com.example.mgbeautystudio.request;public class RegistrationRequest {
+package com.example.mgbeautystudio.request;
+
+public class RegistrationRequest {
 }

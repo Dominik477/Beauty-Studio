@@ -1,2 +1,4 @@
-package com.example.mgbeautystudio.factory;public class Cosmetologist {
+package com.example.mgbeautystudio.factory;
+
+public class Cosmetologist {
 }

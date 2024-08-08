@@ -1,2 +1,4 @@
-package com.example.mgbeautystudio.factory;public class AdminFactory {
+package com.example.mgbeautystudio.factory;
+
+public class AdminFactory {
 }
