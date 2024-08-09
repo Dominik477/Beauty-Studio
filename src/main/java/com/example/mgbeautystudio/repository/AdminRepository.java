@@ -1,4 +1,7 @@
 package com.example.mgbeautystudio.repository;
 
-public interface AdminRepository {
+import com.example.mgbeautystudio.model.Admin;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface AdminRepository extends JpaRepository<Admin, Long> {
 }

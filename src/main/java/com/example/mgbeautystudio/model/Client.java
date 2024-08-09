@@ -14,6 +14,6 @@ import lombok.Setter;
 @NoArgsConstructor
 @PrimaryKeyJoinColumn(name = "client_id")
 public class Client extends User {
-    private long id;
+    private Long id;
 
 }

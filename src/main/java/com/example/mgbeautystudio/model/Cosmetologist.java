@@ -14,7 +14,7 @@ import lombok.Setter;
 @NoArgsConstructor
 @PrimaryKeyJoinColumn(name = "cosmetologist_id")
 public class Cosmetologist extends User {
-    private long id;
+    private Long id;
     private String specialization;
 
 }
